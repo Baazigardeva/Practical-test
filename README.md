@@ -5,4 +5,4 @@
 
 ## Screenshots -
 
-https://github.com/Baazigardeva/practical-test/blob/master/Screenshots/Register.png
+![alt text](https://github.com/Baazigardeva/practical-test/blob/master/Screenshots/Register.png)
